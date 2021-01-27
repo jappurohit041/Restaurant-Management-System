@@ -1,0 +1,12 @@
+Quantity    Items        bill
+10 Plain Roti(s)---->100
+10 Butter Roti(s)---->150
+
+TOTAL Amount is 250
+
+FEEDBACK RESULT
+Experience with staff : 5
+Food Quality : 5
+Hygiene : 5
+Mon Jan 04 22:00:31 2021
+

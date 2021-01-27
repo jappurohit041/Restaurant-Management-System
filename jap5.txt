@@ -1,0 +1,23 @@
+Quantity    Items        bill
+40 Manchow soup(s)---->1800
+14 Butter-Milk---->140
+
+TOTAL Amount is 1940
+
+FEEDBACK RESULT
+Experience with staff : 5
+Food Quality : 4
+Hygiene : 3
+Tue Jan 12 20:30:59 2021
+
+Quantity    Items        bill
+10 Tomato soup(s)---->400
+
+TOTAL Amount is 400
+
+FEEDBACK RESULT
+Experience with staff : 4
+Food Quality : 3
+Hygiene : 2
+Tue Jan 12 20:31:32 2021
+

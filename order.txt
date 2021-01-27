@@ -1,0 +1,4 @@
+Quantity    Items        bill
+10 Tomato soup(s)---->400
+
+TOTAL Amount is 400
